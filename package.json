@@ -1,0 +1,11 @@
+{
+  "name": "redux-normalizr-middleware",
+  "version": "0.1.0",
+  "description": "Redux Normalizr middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Hassan Aly <surel@hasssan.com>",
+  "license": "MIT"
+}
