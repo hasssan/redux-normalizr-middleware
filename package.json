@@ -7,5 +7,18 @@
     "test": "ava"
   },
   "author": "Hassan Aly <surel@hasssan.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "redux": "^3.5.2"
+  },
+  "dependencies": {
+    "normalizr": "^2.0.1"
+  },
+  "ava": {
+    "require": ["babel-register"]
+  },
+  "babel": {
+    "presets": ["es2015", "stage-2"]
+  }
 }
