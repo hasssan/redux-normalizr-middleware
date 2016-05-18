@@ -7,7 +7,11 @@
     "test": "ava"
   },
   "author": "Hassan Aly <surel@hasssan.com>",
-  "license": "MIT",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasssan/redux-normalizr-middleware.git"
+  },
   "devDependencies": {
     "ava": "^0.14.0",
     "redux": "^3.5.2"
